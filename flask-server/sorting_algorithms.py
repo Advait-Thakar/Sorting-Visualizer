@@ -25,5 +25,3 @@ def merge(left_half, right_half):
     result.extend(right_half[right_index:])
     
     return result
-
-Create 
